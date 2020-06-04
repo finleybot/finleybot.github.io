@@ -1,0 +1,6 @@
+.navbar-toggler-active {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 8em;
+}

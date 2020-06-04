@@ -1,0 +1,19 @@
+body {
+    background: url("../../images/background.jpg") no-repeat;
+    background-size: cover;
+}
+
+#root {
+    background-color: #222222;
+    opacity: .95;
+    height: 100%;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1;
+    }
+}

@@ -1,0 +1,38 @@
+.about {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(44,44,44);
+    animation: fade-in 0.6s ease-in;
+    height: 100vh;
+}
+
+.about ul {
+    padding: 30px 0 0 100px;
+}
+
+.about ul li {
+    padding-top: 2em;
+    list-style: none;
+}
+
+.about i {
+    padding-left: .5em;
+    color: lightblue
+}
+
+.about i:hover {
+    padding-left: .5em;
+    color: #0099ff;
+    transition: .25s ease-in;
+}
+
+.card{
+    height: 350px;
+}
+
+.alert {
+    width: 100%;
+}
+
