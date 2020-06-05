@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './about.css';
 
-import DiscordBox from '../../discord-box';
 import TeamService from '../../../services/team-service';
 
 interface TeamProps {

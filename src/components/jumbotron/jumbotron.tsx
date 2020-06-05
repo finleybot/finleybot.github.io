@@ -1,8 +1,5 @@
-import React, { Component } from 'react';
+import React  from 'react';
 import './jumbotron.css';
-import socials from '../../images/socials.png';
-
-import DiscordBox from '../discord-box';
 
 const Jumbotron: React.FC = () => {
     return (
