@@ -22,7 +22,7 @@ const Jumbotron: React.FC = () => {
                 <div className="right-wrap">
                     
                     <div className="icons-wrap">
-                        <div className="fb-like" data-href="https://www.facebook.com/WashingtonStateLibrary" data-width="" data-layout="button" data-action="like" data-size="large" data-share="true"></div>
+                        <div className="fb-like" data-href="https://www.facebook.com/groups/253894375716508" data-width="" data-layout="button" data-action="like" data-size="large" data-share="true"></div>
                     </div>
                     
                 </div>
